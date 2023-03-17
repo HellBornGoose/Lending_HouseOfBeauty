@@ -394,7 +394,7 @@
 	
 	.dt-sc-team.type2 h5, .dt-sc-team.type3 h5 { margin-bottom: 13px; text-transform: uppercase; }	
 	.dt-sc-team.type2 h5 a, .dt-sc-team.type3 h5 a { color: #ffffff; font-size: 16px; }
-	.dt-sc-team.type2 h6, .dt-sc-team.type3 h6 { font-size: 13px; margin-bottom: 0; text-transform: capitalize; }
+	.dt-sc-team.type2 h6, .dt-sc-team.type3 h6 { font-size: 13px; margin-bottom: 0; }
 
 	.dt-sc-team.type2:hover .image .team-details-social-icons a, .dt-sc-team.type2:hover .image .team-details-social-icons a:nth-child(2n) { top: 0; }
 	
